@@ -22,6 +22,7 @@
 		D27E2B242653C19300295E80 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D27E2B262653C19300295E80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D27E2B332653C4D200295E80 /* MyWebview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyWebview.swift; sourceTree = "<group>"; };
+		D27E2B372653CF2E00295E80 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				D27E2B262653C19300295E80 /* Info.plist */,
 				D27E2B232653C19300295E80 /* Preview Content */,
 				D27E2B332653C4D200295E80 /* MyWebview.swift */,
+				D27E2B372653CF2E00295E80 /* README.md */,
 			);
 			path = SwiftUI_Webview_tutorial;
 			sourceTree = "<group>";
